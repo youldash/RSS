@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+
+	<!-- RSS jobs feed (for graduates). -->
+
+	<channel>
+	
+		<title>وظائف في المملكة</title>
+		<description>وظائف في المملكة العربية السعودية</description>
+		<link>http://www.sacm.org.au/graduation/jobs.html</link>
+		<category>Jobs</category>
+		<generator>Coda 2 (Mac OS X 10.9.1)</generator>
+		<pubDate>Tue, 17 Dec 2013 12:00 pm AEST</pubDate>
+		<lastBuildDate>Tue, 17 Dec 2013 12:00 pm AEST</lastBuildDate>
+		
+		<!-- New feeds should be added on top of the items list. -->
+			
+		<item>
+			<title>إعلان وظائف شاغرة في شركة سيمنز</title>
+			<pubDate>Tue, 3 Nov 2015 12:00 pm AEST</pubDate>
+			<description>
+				تعلن شركة سيمنز عن حاجتها لشغل وظائف في مجال المبيعات و مراقب الجودة وللتقديم يرجى ارسال السيرة الذاتية للبريد التالي...
+			</description>		
+	        <link>http://www.sacm.org.au/rss/graduation/jobs/2015/12.15.xml</link>
+			<guid isPermaLink="false">http://www.sacm.org.au/graduation/jobs/2015/12.15.xml</guid>
+		</item>
+				
+		<item>
+			<title>إعلان وظائف شاغرة بمعهد الإدارة العامة</title>
+			<pubDate>Thu, 22 Oct 2015 12:00 pm AEST</pubDate>
+			<description>
+				يُعلن معهد الإدارة العامة  عن حاجته إلى تعيين مساعدي مدربين (معيدين/معيدات) من خريجي الجامعات للعمل في  المعهد حسب الشروط المرفقة...
+			</description>		
+	        <link>http://www.sacm.org.au/rss/graduation/jobs/2015/11.15.xml</link>
+			<guid isPermaLink="false">http://www.sacm.org.au/graduation/jobs/2015/11.15.xml</guid>
+		</item>
+		
+		<item>
+			<title>إعلان وظائف بمدينة الملك عبدالله الطبية</title>
+			<pubDate>Tue, 12 May 2015 12:00 pm AEST</pubDate>
+			<description>
+				تود مدينة الملك عبد الله لاتستقطاب الطلبة من خريجي برنامج الملك عبدالله للابتعاث الخارجي من الخريجين وللتقديم يرجى تقديم عن طريق الموقع الموضح أدناه...
+			</description>		
+	        <link>http://www.sacm.org.au/rss/graduation/jobs/2015/10.15.xml</link>
+			<guid isPermaLink="false">http://www.sacm.org.au/graduation/jobs/2015/10.15.xml</guid>
+		</item>
+		
+		<item>
+			<title>إعلان وظائف شاغرة بمعهد الإدارة العامة</title>
+			<pubDate>Fri, 8 May 2015 12:00 pm AEST</pubDate>
+			<description>		
+			يُعلن معهد الإدارة العامة عن حاجته إلى تعيين مساعدي مدربين (معيدين) من خريجي الجامعات للعمل في المعهد حسب الشروط التالية...
+			</description>		
+	        <link>http://www.sacm.org.au/rss/graduation/jobs/2015/9.15.xml</link>
+			<guid isPermaLink="false">http://www.sacm.org.au/graduation/jobs/2015/9.15.xml</guid>
+		</item>
+		
+		<item>
+			<title>إعلان وظائف في جامعة حائل</title>
+			<pubDate>Thu, 7 Dec 2015 12:00 pm AEST</pubDate>
+			<description>		
+			تود جامعة حائل أن تستقطاب الطلبة المتميزين من الخريجين وللتقديم يرجى تقديم الطلبات على البريد الالكتروني التالي...
+			</description>		
+	        <link>http://www.sacm.org.au/rss/graduation/jobs/2015/8.15.xml</link>
+			<guid isPermaLink="false">http://www.sacm.org.au/graduation/jobs/2015/8.15.xml</guid>
+		</item>
+		
+	</channel>
+	
+</rss>

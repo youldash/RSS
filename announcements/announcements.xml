@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+
+	<!-- RSS announcements feed. -->
+
+	<channel>
+	
+		<title>إعلانات وتعاميم الملحقية</title>
+		<description>إعلانات وتعاميم الملحقية الثقافية السعودية في أستراليا</description>
+		<link>http://www.sacm.org.au/html/sacm-anounsment.html</link>
+		<category>Announcements</category>
+		<generator>Coda 2 (Mac OS X 10.9.1)</generator>
+		<pubDate>Tue, 17 Dec 2013 12:00 pm AEST</pubDate>
+		<lastBuildDate>Tue, 17 Dec 2013 12:00 pm AEST</lastBuildDate>
+		
+		<!-- New feeds should be added on top of the items list. -->
+			
+		<item>
+			<title>بخصوص تحويل نظام سفير</title>
+			<pubDate>Wed, 2 Dec 2015 12:00 pm AEST</pubDate>
+			<description>
+				نظمت الملحقية الثقافية السعودية في أستراليا بالتعاون مع مركز الدراسات العربية والاسلامية بالجامعة الوطنية الأسترالية في العاصمة الأسترالية كانبرا احتفالاً باليوم العالمي للغة العربية اليوم الجمعة 18/12/2015...
+			</description>		
+	        <link>http://www.sacm.org.au/rss/news/2015/61.15.xml</link>
+			<guid isPermaLink="false">http://www.sacm.org.au/rss/news/2015/61.15.xml</guid>
+		</item>
+				
+		<item>
+			<title>الملحقية تهنئ معالي وزير التعليم</title>
+			<pubDate>Mon, 14 Dec 2015 12:00 pm AEST</pubDate>
+			<description>		
+			أصدر خادم الحرمين الشريفين الملك سلمان بن عبدالعزيز آل سعود يحفظه الله يوم الجمعة الماضي عدداً من الأوامر الملكية منها تعيين الدكتور: أحمد بن محمد العيسى وزيراً للتعليم...
+			</description>		
+			<link>http://www.sacm.org.au/rss/news/2015/59.15.xml</link>
+			<guid isPermaLink="false">http://www.sacm.org.au/rss/news/2015/59.15.xml</guid>
+		</item>
+		
+		<item>
+			<title>إختتام دورة عام 2015م لأندية الطلاب السعوديين في أستراليا</title>
+			<pubDate>Mon, 7 Dec 2015 11:00 am AEST</pubDate>
+			<description>		
+			نظّمت أندية الطلاب السعوديين في أستراليا العديد من الفعاليات بمناسبة اختتام أنشطتها لدورة عام 2015م محتفيةً بإنجازاتها التي تحققت خلال هذا العام، وذلك عبر سلسلة من الاحتفالات الطلابية شهدتها بعض المدن الأسترالية خلال الأيام الماضية...
+			</description>		
+	        <link>http://www.sacm.org.au/news/2015/58.15.html</link>
+			<guid isPermaLink="false">http://www.sacm.org.au/news/2015/58.15.html</guid>
+		</item>
+		
+		<item>
+			<title>الملحق الثقافي يلتقي الطلبة المبتعثين</title>
+			<pubDate>Mon, 7 Dec 2015 12:00 pm AEST</pubDate>
+			<description>		
+			التقى الملحق الثقافي في أستراليا الدكتور عبدالعزيز بن عبدالله بن طالب مؤخراً بالطلبة المبتعثين والمرافقين في جامعات: جيمس كوك وولونقونق وبوند حيث تأتي هذه اللقاءات ضمن برامج زيارات الملحق لولايتي نيو ساوث ويلز وولاية كوينزلاند...
+			</description>		
+			<link>http://www.sacm.org.au/news/2015/57.15.html</link>
+			<guid isPermaLink="false">http://www.sacm.org.au/news/2015/57.15.html</guid>
+		</item>
+		
+		<item>
+			<title>في اختتام الأنشطة الرياضية للملحقية لعام 2015، الزعيم يخسر النهائي بنتيجة 5/1</title>
+			<pubDate>Fri, 11 Dec 2015 12:00 pm AEST</pubDate>
+			<description>		
+			اختتمت مؤخراً فعاليات الأنشطة الرياضية لعام 2015م لمنسوبي الملحقية الثقافية في أستراليا وذلك برعاية الملحق الثقافي الدكتور عبدالعزيز بن عبدالله بن طالب، حيث استطاع فريق النسور الحصول على بطولة دوري كرة القدم لهذا العام...
+			</description>		
+	        <link>http://www.sacm.org.au/news/2015/56.15.html</link>
+			<guid isPermaLink="false">http://www.sacm.org.au/news/2015/56.15.html</guid>
+		</item>
+		
+	</channel>
+	
+</rss>
